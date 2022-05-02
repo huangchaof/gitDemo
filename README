@@ -7,3 +7,5 @@ git checkout切换到这个分支，可以在本地新建一个同名的追踪�
 
 this line is for cherry pick
 this line made on master and cherry-pick by dev
+
+在master基础上新建一个分支rebaseb
