@@ -1,2 +1,6 @@
 git branch dev
 git checkout dev
+在github网页上创建了新分支 bcreate-on-github
+本地git pull可以拉取这个新建的分支，
+git checkout切换到这个分支，可以在本地新建一个同名的追踪该远程分支的分支
+
