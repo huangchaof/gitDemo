@@ -1,4 +1,5 @@
 git branch dev
+
 git checkout dev
 
 this line is for cherry pick
@@ -7,3 +8,5 @@ this line made on master and cherry-pick by dev
 this line is first add to staged area
 
 this line is second add to staged area
+rebaseB上添加,记为c4
+for cherry-pick
