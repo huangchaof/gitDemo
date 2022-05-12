@@ -1,4 +1,5 @@
 git branch dev
+
 git checkout dev
 在github网页上创建了新分支 bcreate-on-github
 本地git pull可以拉取这个新建的分支，
@@ -17,3 +18,4 @@ this line on rebaseB  added
 add c5 on master
 
 rebaseB上添加,记为c4
+for cherry-pick
