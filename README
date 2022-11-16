@@ -21,3 +21,5 @@ rebaseB上添加,记为c4
 for cherry-pick
 在远程增加这行，测试fetch and checkout FETCH_HEAD
 在远程增加的，测试cherry-pick this  commit
+
+add new line
